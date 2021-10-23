@@ -14,4 +14,4 @@ Infill 20%
 
 ## Hay dos variantes: ##
 * El 'recinto para tornillos' le permite fijar la placa OpenEEW a la carcasa con tornillos M3 (menos de 4 mm de longitud)
-* El "recinto para insertos" le permite calentar insertos de latón, como estos, en el plástico. Esto proporciona una conexión más segura y le permite poner y quitar las tablas.
+* El "recinto para insertos" le permite calentar tuercas moleteadas M2 de latón, en el plástico. Esto proporciona una conexión más segura y le permite poner y quitar las tablas.
